@@ -1,29 +1,29 @@
 # simple-tcp-port_scanner
-Beginner cybersecurity project that scans a target system to identify open and closed ports and displays the associated services running on open ports. 
 
-Description
+
+**Description**
 
 This project is a simple TCP Port Scanner built using Python. The program scans a target system to check whether ports are open or closed. When an open port is found, the scanner also displays the commonly associated service running on that port.
 
 This project demonstrates the basic concept of port scanning, which is widely used in network security and cybersecurity for identifying active services on a system.
 
-Features
+**Features**
 
- .Scan ports on a target IP address
+ . Scan ports on a target IP address
 
- .Identify open and closed ports
+ . Identify open and closed ports
 
- .Display service names for open ports
+ . Display service names for open ports
 
- .Simple and beginner-friendly implementation
+ . Simple and beginner-friendly implementation
 
-Technologies Used
+**Technologies Used**
 
- .Python 3
+ . Python 3
 
- .Socket Programming
+ . Socket Programming
  
-How It Works
+**How It Works**
 
 1.The user enters a target IP address.
 
