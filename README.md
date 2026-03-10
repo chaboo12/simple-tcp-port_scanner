@@ -42,6 +42,9 @@ Enter target IP address: 127.0.0.1
 Scanning target: 127.0.0.1
 --------------------------------
 Port 22 is OPEN (Service: ssh)
+
 Port 80 is OPEN (Service: http)
+
 Port 443 is OPEN (Service: https)
+
  
